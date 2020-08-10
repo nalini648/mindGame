@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+footer {
+  color: #DBEDF3;
+  font-size: 3rem;
+  font-family: sans-serif;
+  text-shadow: 3px 0 #DA0463;
+}
+
+.h {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.p {
+  background-image: url("images/sponge.png");
+}
+.j{
+  background-image: url("images/sponge.png");
+}
+
+.y {
+  background-image: url("images/snare.png");
+
+}
+
+.r {
+  background-image: url("images/crash.png");
+}
+.z{
+  background-image: url("images/cat.png");
+}
+.k {
+  background-image: url("images/micky.png");
+}
+
+.h {
+  background-image: url("images/monkey.jpeg");
+}
+
+.i {
+  background-image: url("images/bheem.jpeg");
+}
+
+.t {
+  background-image: url("images/bheemfam.jpeg");
+}
+
+.o {
+  background-image: url("images/doremon.png");
+
+}
+
+.x{
+  background-image: url("images/shinchan.png");
+}
+
+.l {
+  background-image:url("images/Motu-Patlu.png");
+}
+.m{
+  background-image:url("images/bheem.png");
+}
+
+.set {
+  margin: 10% auto;
+  padding:10px 200px 200px 120px;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline:none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-flex;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
